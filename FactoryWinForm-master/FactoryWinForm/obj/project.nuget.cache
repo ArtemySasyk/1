@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJ+YmbD4+BsvBiVGMgwv418iFwrecXIzq9CVKSWbjpUEe4cN3wS3A+NtQ1narTUDlTle3ZS0/3pCSEMT//EVDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\robsn\\OneDrive\\Desktop\\FactoryWinForm-master\\FactoryWinForm\\FactoryWinForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robsn\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\robsn\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\robsn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
