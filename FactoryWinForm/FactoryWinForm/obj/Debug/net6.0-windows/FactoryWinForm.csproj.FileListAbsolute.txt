@@ -1,0 +1,85 @@
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.exe
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.deps.json
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.runtimeconfig.json
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.dll
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.pdb
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.AssemblyReference.cache
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.ResolveComReference.cache
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AddProductForm.resources
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AECustomers.resources
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AEFuturaForm.resources
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AEFuturaInfoForm.resources
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AEProductForm.resources
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.DataForm.resources
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.MainMenu.resources
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.ReportForm.resources
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.GenerateResource.cache
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AssemblyInfoInputs.cache
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AssemblyInfo.cs
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.CoreCompileInputs.cache
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.CopyComplete
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.dll
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\refint\FactoryWinForm.dll
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.pdb
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.genruntimeconfig.cache
+C:\Users\mrpri\source\repos\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\ref\FactoryWinForm.dll
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.exe
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.deps.json
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.runtimeconfig.json
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.dll
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.pdb
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\Npgsql.dll
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.AssemblyReference.cache
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.ResolveComReference.cache
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AECustomers.resources
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AEFuturaForm.resources
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AEFuturaInfoForm.resources
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AEProductForm.resources
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.DataForm.resources
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.MainMenu.resources
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.ReportForm.resources
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.GenerateResource.cache
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AssemblyInfoInputs.cache
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AssemblyInfo.cs
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.CoreCompileInputs.cache
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.CopyComplete
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.dll
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\refint\FactoryWinForm.dll
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.pdb
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.genruntimeconfig.cache
+D:\Education\Develop in RAD systems\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\ref\FactoryWinForm.dll
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.exe
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.deps.json
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.runtimeconfig.json
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.dll
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\FactoryWinForm.pdb
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.AssemblyReference.cache
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.ResolveComReference.cache
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AECustomers.resources
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AEFuturaForm.resources
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AEFuturaInfoForm.resources
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AEProductForm.resources
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.DataForm.resources
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.MainMenu.resources
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.ReportForm.resources
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.GenerateResource.cache
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AssemblyInfoInputs.cache
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.AssemblyInfo.cs
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.CoreCompileInputs.cache
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.csproj.CopyComplete
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.dll
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\refint\FactoryWinForm.dll
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.pdb
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\FactoryWinForm.genruntimeconfig.cache
+C:\Users\79284\Desktop\FactoryWinForm\FactoryWinForm\obj\Debug\net6.0-windows\ref\FactoryWinForm.dll
